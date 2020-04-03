@@ -1,2 +1,2 @@
 # c19ct
-See c19ct-b
+See https://github.com/c19ctabc/c19ct-b
